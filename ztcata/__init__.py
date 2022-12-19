@@ -1,1 +1,1 @@
-from . import tree
+from .tree import *
